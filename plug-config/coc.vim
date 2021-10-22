@@ -1,6 +1,6 @@
-let g:coc_global_extensions =  ['coc-json', 'coc-tsserver', 'coc-emmet', 'coc-tslint', 'coc-prettier', 'coc-yank', 'coc-explorer']
+let g:coc_global_extensions =  ['coc-go', 'coc-json', 'coc-tsserver', 'coc-emmet', 'coc-tslint', 'coc-prettier', 'coc-yank', 'coc-explorer']
 
-:nmap <space>e :CocCommand explorer<CR>
+nmap <space>e :CocCommand explorer<CR>
 
 let g:coc_explorer_global_presets = {
 \   '.vim': {

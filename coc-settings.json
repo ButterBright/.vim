@@ -29,6 +29,8 @@
     "value": "\uf89f",
     "variable": "\ue71b"
   },
+  "list.nextKeymap": "<C-k>",
+  "list.previousKeymap": "<C-i>",
   // explorer
   "explorer.width": 30,
   "explorer.icon.enableNerdfont": true,

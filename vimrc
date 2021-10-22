@@ -1,11 +1,11 @@
-source $HOME/.config/nvim/vim-plug/plugins.vim
-source $HOME/.config/nvim/general/settings.vim
-source $HOME/.config/nvim/keys/mappings.vim
-source $HOME/.config/nvim/themes/gruvbox.vim
-source $HOME/.config/nvim/themes/airline.vim
-source $HOME/.config/nvim/plug-config/coc.vim
-source $HOME/.config/nvim/plug-config/start-screen.vim
-source $HOME/.config/nvim/plug-config/nerdcommenter.vim
+source $HOME/.vim/vim-plug/plugins.vim
+source $HOME/.vim/general/settings.vim
+source $HOME/.vim/keys/mappings.vim
+source $HOME/.vim/themes/gruvbox.vim
+source $HOME/.vim/themes/airline.vim
+source $HOME/.vim/plug-config/coc.vim
+source $HOME/.vim/plug-config/start-screen.vim
+source $HOME/.vim/plug-config/nerdcommenter.vim
 
 let mapleader=" "
 syntax on
